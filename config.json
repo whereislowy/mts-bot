@@ -1,0 +1,39 @@
+{
+    "token": "",
+
+    "owner": "739504971128635505",
+
+    "prefix": "mts!",
+
+    "logs": "🔌・logs",
+
+    "emojiAttention": "<a:attention:797509115046789180>",
+
+    "emojiValidé": "<a:check2:797509161516007455>",
+
+    "emojiWait": "<a:wait:823908313841401946>",
+
+    "networkVert": "<:networkvert:798962584073797662>",
+
+    "networkRouge": "<:networkrouge:798962571817648138>",
+
+    "emojiON": "<:on:812059258870824990>",
+
+    "emojiOFF": "<:off:812059274129309707> ",
+
+    "emojiVocal": "<:vocal:812623212507561994>",
+
+    "emojiMuted": "<:mutevoc:812634802304974898>",
+
+    "emojiDeaf": "<:mutedeaf:812636522528374794>",
+
+    "blue": "194EDB",
+
+    "red": "CB0B0B",
+
+    "cooldownMessageTime": "3000",
+
+    "muteSpamTime": "3600000",
+
+    "linkMuteTime": "3600000"
+}
